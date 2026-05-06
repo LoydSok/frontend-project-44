@@ -15,5 +15,8 @@
     "url": "git+ssh://git@github.com/LoydSok/frontend-project-44.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
